@@ -8,7 +8,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Conducting a Security Audit</b>
-  - Security Audit Part One (https://github.com/Sirajabd/Security-Audit-Part-1)
+  - [Security Audit Part One](https://github.com/Sirajabd/Security-Audit-Part-1)
 - <b></b>
   - <b><i></b></i>
 - <b></b>
