@@ -1,9 +1,9 @@
 <h1>Hi, I'm Siraj! <br/><br/><a href="https://github.com/Sirajabd">Aspiring Cybersecurity Proffesional</a>
-  
-- 🌱 I’m currently learning Cybersecurity/CompTia Sec+
-- 👯 I’m looking to collaborate on finding roles in Cybersec!
-- 💬 Ask me about my passion and motivation. 
-- 📫 How to reach me: siraja-csec@gmail.com - Or LinkedIn
+
+<h4>🌱 I’m currently learning Cybersecurity/CompTia Sec+
+<h4>👯 I’m looking to collaborate on finding roles in Cybersec!
+<h4>💬 Ask me about my passion and motivation. 
+<h4>📫 How to reach me: siraja-csec@gmail.com - Or LinkedIn
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
