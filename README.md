@@ -10,7 +10,7 @@
 - <b>Conducting a Security Audit</b>
   - [Security Audit Part One](https://github.com/Sirajabd/Security-Audit-Part-1) - Controls Assessment and Compliance Checklist 
 - <b></b>
-  - <b><i></b></i>
+  - [Security Audit Part Two] - Stakeholder Memorandum
 - <b></b>
   - 
   - 
